@@ -39,7 +39,7 @@ pipeline {
                                                                       echo 'running the integration test...'
                                                                         }
                                                             }
-                                                  }
+                                                  
                                       }
                     }
           }
